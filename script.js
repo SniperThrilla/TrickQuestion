@@ -34,6 +34,7 @@ function check(num) {
     }
 }
 
+start();
 function hint() {
     console.log("e + a = " + ea);
     console.log("Still stuck? Use hint2() for another hint!");
